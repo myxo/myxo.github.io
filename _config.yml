@@ -1,14 +1,12 @@
 # Site settings
-title:       Mixyll
-email:       hello@saikiransripada.com
-author:      Sai Kiran Sripada
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+title:       Myxo's github page
+email:       klimov.ns@mail.ru
+author:      Klimov Nikolay
+description: ""
 baseurl:     ""
-url:         "https://mixyll.saikiransripada.com"
+url:         "https://myxo.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
 
 google_analytics:
 
@@ -25,9 +23,7 @@ post_preview_image: false
 disqus_shortname:
 
 # Social icons
-github_username: saikiransripada
-twitter_username: wp_user
-linkedin_username: saikiransripada
+github_username: myxo
 
 # Post sharing icons
 show_sharing_icons: true
@@ -46,17 +42,6 @@ text:
   pagination:
     newer: 'Newer'
     older: 'Older'
-  share_buttons:
-    text:         'Share:'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
     minute_read:    'minute read'
