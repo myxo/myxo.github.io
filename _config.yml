@@ -1,6 +1,6 @@
 # Site settings
-title:       Myxo's github page
-email:       klimov.ns@mail.ru
+title:       Yare yare...
+email:       
 author:      Klimov Nikolay
 description: ""
 baseurl:     ""
@@ -26,7 +26,7 @@ disqus_shortname:
 github_username: myxo
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
